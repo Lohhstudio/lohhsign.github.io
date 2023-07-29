@@ -1,0 +1,33 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 51.2rem;
+  height: 28.8rem;
+  overflow: hidden;
+}
+
+.text-wrapper_1 {
+  height: 28.8rem;
+  background: url(./img/pshp40kvnhl1ojmyly48kqg8ffmvhpxlr7346b5593-9ab8-4df5-adcb-2b723b3fb1d0.png)
+    0rem 0rem no-repeat;
+  background-size: 51.254rem 32.214rem;
+  width: 51.2rem;
+}
+
+.text_1 {
+  width: 23.974rem;
+  height: 2.907rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.16rem;
+  font-family: MyriadPro-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.934rem;
+  margin: 9.44rem 0 0 13.707rem;
+}
